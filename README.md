@@ -1,17 +1,18 @@
 # Bubble Ball: How the Pandemic Affected NBA & WNBA Performance
-bit.ly/2IQiB20
+Deployed here: bit.ly/2IQiB20
 
-## Introduction 
-Taking a deeper look into Mens and Womens Professional Basketball and looking at the impacts that the Covid-19 pandemic had on the most recent season. Built a machine-learning model using nearly-complete season statistics for the NBA & WNBA to determine probability of a "win." 
+## Object 
+How important are live fans for a win? We wanted to know how professional sports have fared in this new empty-stadium world. Since the NBA/WNBA had nearly-complete seasons compared to other sports, we decided to analyze professional basketball seasons before and during the Covid-19 pandemic in order to see how player performance "in the bubble," i.e. without fans, was impacted. 
 
-## Sources 
+## Data Sources 
 * SportRadar API
 * Basketball-Reference.com
 
 ## Visualizations 
 * Bar chart racers for player point totals in NBA, WNBA
-* linear regression charts for each player pre-Covid and during Covid (D3, Plotly),
-* Tableau showing statistical data 
+* Linear regression charts for each player pre-Covid and during Covid (using D3, Plotly)
+* Tableau charts showing statistical data for each player
+* HTML site displaying all of the infornation. 
 
 ## Tech Environment 
 D3, Plotly,  HTML5, Looping API calling, Bootstrap, Slack, Zoom, GitHub, VSCode, TensorFlow, SDKLearn 
