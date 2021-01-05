@@ -26,7 +26,7 @@ We trained two models (Random Forest and Sequential with hidden layers) on pre-C
 * Bar chart racers for player point totals in NBA, WNBA
 * Linear regression charts for each player pre-Covid and during Covid (using D3, Plotly)
 * Tableau charts showing statistical data for each player
-* HTML site displaying all of the infornation. 
+* HTML site displaying all of the information. 
 
 ## Tech Environment 
 D3, Plotly,  HTML5, Looping API calling, Bootstrap, Slack, Zoom, GitHub, VSCode, TensorFlow, SDKLearn 
