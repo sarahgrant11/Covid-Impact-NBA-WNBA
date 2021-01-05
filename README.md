@@ -1,5 +1,5 @@
 # Bubble Ball: How the Pandemic Affected NBA & WNBA Performance
-Deployed here: bit.ly/2IQiB20
+[Deployed here](https://sarahgrant11.github.io/Covid-Impact-NBA-WNBA/)
 
 ## Object 
 How important are live fans for a win? We wanted to know how professional sports have fared in this new empty-stadium world. 
